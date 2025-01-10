@@ -1,0 +1,3 @@
+Category:  NLP
+Mine:      0.92491
+Max:       0.97134

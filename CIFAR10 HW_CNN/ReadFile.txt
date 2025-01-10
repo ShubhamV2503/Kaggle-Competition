@@ -1,0 +1,3 @@
+Category:  CNN
+Mine:      
+Max:       0.96600

@@ -1,0 +1,5 @@
+Category:  CNN
+Mine:      0.9271
+Max:       0.88850
+
+STATUS: COMPLETED I WON

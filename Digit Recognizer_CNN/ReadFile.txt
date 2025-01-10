@@ -1,0 +1,3 @@
+Category:  CNN
+Mine:      0.99271 (RANK = 260)
+Max:       1.000

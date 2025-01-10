@@ -1,0 +1,3 @@
+Category:  CLASSIFICATION
+Mine:      0.97718 (RANK = 1782)
+Max:       0.98537

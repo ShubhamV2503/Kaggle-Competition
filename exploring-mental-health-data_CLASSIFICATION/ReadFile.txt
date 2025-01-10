@@ -1,0 +1,3 @@
+Category:  CLASSIFICATION
+Mine:      0.80692
+Max:       0.94488

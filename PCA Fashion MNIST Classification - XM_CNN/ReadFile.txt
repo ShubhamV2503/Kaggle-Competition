@@ -1,0 +1,3 @@
+Category:  CNN
+Mine:      0.92710 (RANK = 1)
+Max:       1.000 (SAMPLE SUBMISSION)
