@@ -1,0 +1,5 @@
+Category:  CNN
+Mine:      0.97342
+Max:       1.000
+
+STATUS: 
